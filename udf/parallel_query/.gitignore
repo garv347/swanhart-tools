@@ -1,0 +1,10 @@
+CMakeFiles
+*cache*.txt
+tmp/
+build/*
+include/
+lib/
+bin/
+share/
+src/
+man/
